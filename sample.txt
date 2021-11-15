@@ -1,1 +1,1 @@
-This is a sample file. more.
+This is a sample file. more. and more after: git config --global credential.helper store
