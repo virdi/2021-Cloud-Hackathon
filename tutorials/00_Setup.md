@@ -59,6 +59,8 @@ Go to <https://github.com/nasa-openscapes/2021-Cloud-Hackathon> and fork the rep
 
 ![](../clinic/img/fork-tutorials.png)
 
+**Note:** if you've already done this in the Pre-Hackathon Clinic, you'll need to make sure you have the latest, following the [daily setup](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/logistics/github-workflows.html#daily-setup) instructions.
+
 ## Discussion: Python and Conda environments
 
 [**Why Python?**](https://foundations.projectpythia.org/foundations/why-python.html)
@@ -209,7 +211,7 @@ Open a new terminal: `File >> New >> Terminal`
 
 ![](img/JupyterHub-Tracking-GitConfig.png)
 
-Configure `git` to store your github credentials to avoid having to enter your github username and token each time you push changes to your repository(in [Step 5.5](#step-5.5.-transmit-committed-changes-to-your-github-(git-push), we will describe how to use github token instead of a password)
+Configure `git` to store your github credentials to avoid having to enter your github username and token each time you push changes to your repository(in [Step 5.5](#step-5.5.-transmit-committed-changes-to-your-github-(git-push),%20we%20will%20describe%20how%20to%20use%20github%20token%20instead%20of%20a%20password), we will describe how to use github token instead of a password)
 
 ``` bash
 git config --global credential.helper store
