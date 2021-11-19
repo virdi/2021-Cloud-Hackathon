@@ -92,13 +92,19 @@ _schedule-day5.md
 
 ### Welcome Day 5
 
-```{.include}
-_welcome-day2-on.md
-```
+- JupyterHub: Log in. 
+  - Log into 2i2c at <https://openscapes.2i2c.cloud/hub/>. This takes a few minutes so please start this as soon we reconvene each day
+- Group Photo!  
+
+### What's next 
+
+[Slides](https://docs.google.com/presentation/d/1LKpdrssV97BFN3yh0LJEmj64wU0kaZp42in_SlsHFmc/edit#slide=id.gfbd87e8abc_0_0) sharing about upcoming opportunities with the [NASA Openscapes](https://nasa-openscapes.github.io/) project.
 
 ### Closing Day 5
 
-Thank you! More details upcoming
+```{.include} 
+_closing-day5.md
+``` 
 
 ## Pre-Hackathon Clinic: November 9
 
